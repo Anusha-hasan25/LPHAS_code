@@ -102,8 +102,8 @@ No human participants or flight telemetry were used in the reported work. Human-
 ## Authors and affiliations
 
 - **Anusha Hasan** — Karachi Institute of Engineering & Technology (KIET), Karachi, Pakistan
-- **Falak Shah** — Karachi Institute of Engineering & Technology (KIET), Karachi, Pakistan
 - **Abdul Karim Hasan** — Karachi Institute of Engineering & Technology (KIET), Karachi, Pakistan
+- **Falak Shah** — Karachi Institute of Engineering & Technology (KIET), Karachi, Pakistan
 - **Rafia Kamran** — Karachi Institute of Engineering & Technology (KIET), Karachi, Pakistan
 - **Arsalan Mehmood** — Folio3 Software, Karachi, Pakistan
 
@@ -122,7 +122,7 @@ Please cite the associated manuscript once its publication details are final. A 
 ```bibtex
 @unpublished{hasan2026lphas,
   title  = {LPHAS: A Latency-Predictive Human-Agent Symbiosis Framework for Trust-Calibrated Autonomy in Deep-Space},
-  author = {Hasan, Anusha and Shah, Falak and Hasan, Abdul Karim and Kamran, Rafia and Mehmood, Arsalan},
+  author = {Hasan, Anusha and Hasan, Abdul Karim and Shah, Falak and Kamran, Rafia and Mehmood, Arsalan},
   year   = {2026},
   note   = {Research manuscript}
 }
