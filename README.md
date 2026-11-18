@@ -1,4 +1,4 @@
-LPHAS: A Latency-Predictive Human–Agent Symbiosis Framework for Trust-Calibrated Autonomy in Deep-Space
+**LPHAS: A Latency-Predictive Human–Agent Symbiosis Framework for Trust-Calibrated Autonomy in Deep-Space**
 LPHAS is a research framework for human–agent collaboration in interplanetary missions, where communication delays can make real-time ground-in-the-loop control impractical. It combines latency- and hazard-aware autonomy allocation, an onboard predictive shadow model, and compact narrative telemetry intended to help ground operators understand and audit onboard decisions.
 Research scope: This repository accompanies a framework-and-analysis study. The reported experiments use synthetic telemetry and simulation; they are not flight results or human-subject results. Resource figures are design targets, not hardware measurements.
 
